@@ -92,3 +92,6 @@ The predicted price is an estimate based on the dataset used for training. Actua
 Machine Learning Mini Project – Regression
 
 **Project Title:** Used Car Price Prediction Using Linear Regression
+
+## GitHub Reference
+https://github.com/complexiota
